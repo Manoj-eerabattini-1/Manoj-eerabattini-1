@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 This is Manoj
 
-<!--
-**Manoj-eerabattini-1/Manoj-eerabattini-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm an Aspiring Software Developer with decent skills in MERN stack.
+- Currently learning Web Development by building projects.
+- I'm open to work and would love to collaborate and contribute to interesting Open Source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,postgres,git,github" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
