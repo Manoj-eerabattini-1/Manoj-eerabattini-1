@@ -25,4 +25,7 @@
   <a href="https://twitter.com/Manoj_1729">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <a href="https://leetcode.com/manoj_2997">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
 </p>
