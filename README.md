@@ -26,6 +26,6 @@
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://leetcode.com/manoj_2997">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48" height="48"/>
+  </a>
 </p>
