@@ -3,6 +3,8 @@
 - I'm an Aspiring Software Developer with decent skills in MERN stack.
 - Currently learning Web Development by building projects.
 - I'm open to work and would love to collaborate and contribute to interesting Open Source projects.
+- Additionally, I enjoy solving Algorithmic coding problems in Java.
+- Have been consistent on LeetCode.
 
 ---
 
@@ -17,10 +19,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="(https://www.linkedin.com/in/manoj-eerabattini/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
+  <a href="https://twitter.com/Manoj_1729">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
